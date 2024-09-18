@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">My name is Nicolas Uliana Ramos and I'm a Full Stack Developer, from ....</p>
+<p align="left">My name is Nicolas Uliana Ramos and I'm a Full Stack Developer</p>
 
 ###
 
-<h2 align="left">Iniciei meus estudos em 2021 utilizando HTML, CSS e JavaScript para o frontend. Atualmente, sou considerado desenvolvedor fullstack no mercado e atuo como freelancer. Estou em busca de experiências profissionais e crescer na carreira</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h2 align="left">I started my studies in 2021 using HTML, CSS and JavaScript for the frontend. Currently, I am considered a full stack developer in the market and work as a freelancer. I'm looking for professional experience and career growth</h2>
 
 ###
 
